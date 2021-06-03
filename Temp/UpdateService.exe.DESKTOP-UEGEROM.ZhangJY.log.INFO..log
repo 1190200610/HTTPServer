@@ -1,0 +1,5 @@
+Log file created at: 2020/04/23 21:48:21
+Running on machine: DESKTOP-UEGEROM
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0423 21:48:21.560133  2412 main.cpp:319] domain = 0
+I0423 21:48:21.802490  2412 main.cpp:609] check_update point 1

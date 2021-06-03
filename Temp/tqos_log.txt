@@ -1,0 +1,729 @@
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:1
+        QosList[0].Int[1]:1
+        QosList[0].Int[2]:1
+        QosList[0].Int[3]:1
+        QosList[0].Int[4]:2
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:1
+        QosList[0].Int[8]:1
+        QosList[0].Int[9]:49
+        QosList[0].Int[10]:1
+        QosList[0].Int[11]:1
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:1
+        QosList[0].Int[16]:1
+        QosList[0].Int[17]:1
+        QosList[0].Int[18]:1
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:1
+        QosList[0].Int[21]:100
+        QosList[0].Int[22]:1
+        QosList[0].Int[23]:100
+        QosList[0].Int[24]:1
+        QosList[0].Int[25]:100
+        QosList[0].Int[26]:1
+        QosList[0].Int[27]:1
+        QosList[0].Int[28]:1
+        QosList[0].Int[29]:6
+        QosList[0].Str[0]:1224581500
+        QosList[0].Str[1]:1.000000
+        QosList[0].Str[2]:1
+        QosList[0].Str[3]:0
+        QosList[0].Str[4]:0
+        QosList[0].Str[5]:0,0,0,0,0,0,0,0,0
+        QosList[0].Str[6]:0
+
+need to send pkg len[252] ,Binary Content:
+7572001000EC00050000000B00002719000000710000000100000000010000000001000036B100000000000000020000001E000000010000000100000001000000010000000200000000000000000000000100000001000000310000000100000001000000000000000000000000000000010000000100000001000000010000000000000001000000640000000100000064000000010000006400000001000000010000000100000006000000070000000B313232343538313530300000000009312E3030303030300000000002310000000002300000000002300000000012302C302C302C302C302C302C302C302C300000000002300000000000
+succeed to send pkg len[252]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:284
+        QosList[0].Int[2]:1
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B0000271A000000710000000100000000010000000001000036B100000000000000020000001E00000F020000011C00000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:37
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B0000271B000000710000000100000000010000000001000036B100000000000000020000001E00000F020000002500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:38
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B0000271C000000710000000100000000010000000001000036B100000000000000020000001E00000F020000002600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:37
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B0000271D000000710000000100000000010000000001000036B100000000000000020000001E00000F020000002500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:44
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B0000271E000000710000000100000000010000000001000036B100000000000000020000001E00000F020000002C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:45
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B0000271F000000710000000100000000010000000001000036B100000000000000020000001E00000F020000002D00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[4988]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:1
+        QosList[0].Int[1]:1
+        QosList[0].Int[2]:1
+        QosList[0].Int[3]:1
+        QosList[0].Int[4]:2
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:1
+        QosList[0].Int[8]:1
+        QosList[0].Int[9]:49
+        QosList[0].Int[10]:1
+        QosList[0].Int[11]:1
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:1
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:1
+        QosList[0].Int[18]:1
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:1
+        QosList[0].Int[21]:100
+        QosList[0].Int[22]:1
+        QosList[0].Int[23]:100
+        QosList[0].Int[24]:1
+        QosList[0].Int[25]:100
+        QosList[0].Int[26]:1
+        QosList[0].Int[27]:1
+        QosList[0].Int[28]:1
+        QosList[0].Int[29]:6
+        QosList[0].Str[0]:1224581500
+        QosList[0].Str[1]:0.020000
+        QosList[0].Str[2]:1
+        QosList[0].Str[3]:0
+        QosList[0].Str[4]:0
+        QosList[0].Str[5]:0,0,0,0,0,0,0,0,0
+        QosList[0].Str[6]:0
+
+need to send pkg len[252] ,Binary Content:
+7572001000EC00050000000B00003EAE000000710000000100000000010000000001000036B100000000000000020000001E000000010000000100000001000000010000000200000000000000000000000100000001000000310000000100000001000000000000000000000000000000010000000000000001000000010000000000000001000000640000000100000064000000010000006400000001000000010000000100000006000000070000000B313232343538313530300000000009302E3032303030300000000002310000000002300000000002300000000012302C302C302C302C302C302C302C302C300000000002300000000000
+succeed to send pkg len[252]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:726
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B00003EAF000000710000000100000000010000000001000036B100000000000000020000001E00000F02000002D600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:39
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B00003EB0000000710000000100000000010000000001000036B100000000000000020000001E00000F020000002700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:50
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:0
+        QosList[0].Int[4]:0
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:7
+        QosList[0].Str[0]:1224581500
+
+need to send pkg len[193] ,Binary Content:
+7572001000B100050000000B00003EB1000000710000000100000000010000000001000036B100000000000000020000001E00000F020000003200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007000000010000000B313232343538313530300000000000
+succeed to send pkg len[193]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:16065
+        QosList[0].Int[2]:0
+        QosList[0].Int[3]:767
+        QosList[0].Int[4]:893
+        QosList[0].Int[5]:1708
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:3
+        QosList[0].Str[0]:61.181.204.207
+        QosList[0].Str[1]:60.15.211.196
+
+need to send pkg len[215] ,Binary Content:
+7572001000C700050000000B00003EB2000000710000000100000000010000000001000036B100000000000000020000001E00000F0200003EC100000000000002FF0000037D000006AC000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000020000000F36312E3138312E3230342E323037000000000E36302E31352E3231312E3139360000000000
+succeed to send pkg len[215]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:295
+        QosList[0].Int[2]:1457
+        QosList[0].Int[3]:576
+        QosList[0].Int[4]:1684
+        QosList[0].Int[5]:2599
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:156
+        QosList[0].Int[8]:2
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:4
+        QosList[0].Str[0]:1224581500
+        QosList[0].Str[1]:60.15.211.196
+        QosList[0].Str[2]:111.206.142.29:12453
+
+need to send pkg len[236] ,Binary Content:
+7572001000DC00050000000B00003EB3000000710000000100000000010000000001000036B100000000000000020000001E00000F0200000127000005B1000002400000069400000A27000000000000009C00000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000030000000B31323234353831353030000000000E36302E31352E3231312E31393600000000153131312E3230362E3134322E32393A31323435330000000000
+succeed to send pkg len[236]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:0
+        QosList[0].Int[2]:-1
+        QosList[0].Int[3]:-1
+        QosList[0].Int[4]:2
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:5
+        QosList[0].Str[0]:1224581500
+        QosList[0].Str[1]:Loss of connection (server or network down)
+        QosList[0].Str[2]:Unknown Server IP
+        QosList[0].Str[3]:60.15.211.196
+
+need to send pkg len[281] ,Binary Content:
+75720010010900050000000B00003EB4000000710000000100000000010000000001000036B100000000000000020000001E00000F0200000000FFFFFFFFFFFFFFFF0000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005000000040000000B31323234353831353030000000002C4C6F7373206F6620636F6E6E656374696F6E2028736572766572206F72206E6574776F726B20646F776E290000000012556E6B6E6F776E20536572766572204950000000000E36302E31352E3231312E3139360000000000
+succeed to send pkg len[281]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:0
+        QosList[0].Int[2]:-1
+        QosList[0].Int[3]:-1
+        QosList[0].Int[4]:2
+        QosList[0].Int[5]:0
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:5
+        QosList[0].Str[0]:1224581500
+        QosList[0].Str[1]:Loss of connection (server or network down)
+        QosList[0].Str[2]:Unknown Server IP
+        QosList[0].Str[3]:60.15.211.196
+
+need to send pkg len[281] ,Binary Content:
+75720010010900050000000B00003EB5000000710000000100000000010000000001000036B100000000000000020000001E00000F0200000000FFFFFFFFFFFFFFFF0000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005000000040000000B31323234353831353030000000002C4C6F7373206F6620636F6E6E656374696F6E2028736572766572206F72206E6574776F726B20646F776E290000000012556E6B6E6F776E20536572766572204950000000000E36302E31352E3231312E3139360000000000
+succeed to send pkg len[281]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:16065
+        QosList[0].Int[2]:1
+        QosList[0].Int[3]:512
+        QosList[0].Int[4]:546
+        QosList[0].Int[5]:443
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:3
+        QosList[0].Str[0]:61.181.204.173
+        QosList[0].Str[1]:60.15.211.196
+
+need to send pkg len[215] ,Binary Content:
+7572001000C700050000000B00003EB6000000710000000100000000010000000001000036B100000000000000020000001E00000F0200003EC1000000010000020000000222000001BB000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000020000000F36312E3138312E3230342E313733000000000E36302E31352E3231312E3139360000000000
+succeed to send pkg len[215]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:16065
+        QosList[0].Int[2]:1
+        QosList[0].Int[3]:1927
+        QosList[0].Int[4]:433
+        QosList[0].Int[5]:464
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:3
+        QosList[0].Str[0]:61.181.204.151
+        QosList[0].Str[1]:60.15.211.196
+
+need to send pkg len[215] ,Binary Content:
+7572001000C700050000000B00003EB7000000710000000100000000010000000001000036B100000000000000020000001E00000F0200003EC10000000100000787000001B1000001D0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000020000000F36312E3138312E3230342E313531000000000E36302E31352E3231312E3139360000000000
+succeed to send pkg len[215]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:16065
+        QosList[0].Int[2]:1
+        QosList[0].Int[3]:679
+        QosList[0].Int[4]:761
+        QosList[0].Int[5]:434
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:3
+        QosList[0].Str[0]:61.181.204.161
+        QosList[0].Str[1]:60.15.211.196
+
+need to send pkg len[215] ,Binary Content:
+7572001000C700050000000B00003EB8000000710000000100000000010000000001000036B100000000000000020000001E00000F0200003EC100000001000002A7000002F9000001B2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000020000000F36312E3138312E3230342E313631000000000E36302E31352E3231312E3139360000000000
+succeed to send pkg len[215]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]
+BussnessID[113],CtlID[],ServerID[]
+    QosList[0]:QosID[14001],QosVal[0],AppendDescFlag[2]
+        QosList[0].Int[0]:3842
+        QosList[0].Int[1]:296
+        QosList[0].Int[2]:1259
+        QosList[0].Int[3]:580
+        QosList[0].Int[4]:1960
+        QosList[0].Int[5]:3349
+        QosList[0].Int[6]:0
+        QosList[0].Int[7]:0
+        QosList[0].Int[8]:0
+        QosList[0].Int[9]:0
+        QosList[0].Int[10]:0
+        QosList[0].Int[11]:0
+        QosList[0].Int[12]:0
+        QosList[0].Int[13]:0
+        QosList[0].Int[14]:0
+        QosList[0].Int[15]:0
+        QosList[0].Int[16]:0
+        QosList[0].Int[17]:0
+        QosList[0].Int[18]:0
+        QosList[0].Int[19]:0
+        QosList[0].Int[20]:0
+        QosList[0].Int[21]:0
+        QosList[0].Int[22]:0
+        QosList[0].Int[23]:0
+        QosList[0].Int[24]:0
+        QosList[0].Int[25]:0
+        QosList[0].Int[26]:0
+        QosList[0].Int[27]:0
+        QosList[0].Int[28]:0
+        QosList[0].Int[29]:4
+        QosList[0].Str[0]:1224581500
+        QosList[0].Str[1]:60.15.211.196
+        QosList[0].Str[2]:123.126.126.80:12284
+
+need to send pkg len[236] ,Binary Content:
+7572001000DC00050000000B00003EB9000000710000000100000000010000000001000036B100000000000000020000001E00000F0200000128000004EB00000244000007A800000D15000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000030000000B31323234353831353030000000000E36302E31352E3231312E31393600000000153132332E3132362E3132362E38303A31323238340000000000
+succeed to send pkg len[236]  to qossvr[udp://ied-tqos-min.qq.com:8000] by socket[5476]

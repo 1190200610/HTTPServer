@@ -1,0 +1,13 @@
+OSVersion:10.0.18362
+OSType:x64
+ScreenResolution:1536x864
+CPUProcessor:Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+CPUCores:12
+MemorySize:8004MB
+GPU0:Intel(R) UHD Graphics 630
+GPU0MemorySize:1024MB
+GPU1:NVIDIA GeForce RTX 2060
+GPU1MemorySize:6144MB
+DirectXVersion:DirectX 12
+OpenGLRenderer:GeForce RTX 2060/PCIe/SSE2
+OpenGLVersion:4.6.0 NVIDIA 441.45
